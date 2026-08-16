@@ -71,11 +71,4 @@ AI 시대의 흐름에 맞춰 **SK 부트캠프에서 AI 심화 학습**을 진�
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=qkrrlxor627&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrrlxor627&layout=compact&theme=graywhite&hide_border=true" height="160" />
-
 </div>
