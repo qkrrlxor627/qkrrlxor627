@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=140&text=Park%20Kitaek&fontColor=ffffff&fontSize=42&desc=BackEnd%20Developer%20%C2%B7%20AI%20Engineer&descSize=16&descAlignY=75" width="100%" />
 
-## **[백엔드 특화형 · AI 엔지니어]** 박기택입니다.
+## **[백엔드 특화형 AI 엔지니어]** 박기택입니다.
 
 로봇견과의 연동을 통해 **풀스택 모니터링 앱**을 만든 경험이 있고,<br/>
 회계·세무 도메인 기반의 **핀테크 앱**을 만든 경험도 있습니다.
