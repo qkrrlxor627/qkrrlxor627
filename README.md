@@ -67,7 +67,7 @@ AI 시대의 흐름에 맞춰 **SK 부트캠프에서 AI 심화 학습**을 진�
 
 ## 📜 Certifications
 
-정보처리기사 `2024.09` · SQL개발자(SQLD) `2024.09` · TOEIC Speaking IM1 `2026.03` · 5종 이상의 자격증 보유 (워드프로세서, MOS Master 등)
+정보처리기사 `2024.09` <br/> SQL개발자(SQLD) `2024.09` <br/> TOEIC Speaking IM1 `2026.03` <br/> 5종 이상의 자격증 보유 (워드프로세서, MOS Master 등)
 
 ---
 
