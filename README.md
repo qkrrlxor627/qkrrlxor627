@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=140&text=Park%20Kitaek&fontColor=ffffff&fontSize=42&desc=BackEnd%20Developer%20%C2%B7%20AI%20Engineer&descSize=16&descAlignY=75" width="100%" />
 
-## **[Backend-Specialized AI Engineer]** Park Kitaek
+## **[Backend-Specialized AI Engineer]** Tech
 
 I've built a **full-stack monitoring app** integrated with a robot guide dog,<br/>
 and a **fintech app** grounded in the accounting & tax domain.
