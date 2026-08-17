@@ -19,7 +19,7 @@ AI 시대의 흐름에 맞춰 **SK 부트캠프에서 AI 심화 학습**을 진�
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Language & Backend**
 
@@ -50,7 +50,7 @@ AI 시대의 흐름에 맞춰 **SK 부트캠프에서 AI 심화 학습**을 진�
 
 ---
 
-## 📌 Projects
+## Projects
 
 | 프로젝트                                                         | 소개                                                                           | 시기    |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------- |
@@ -62,7 +62,7 @@ AI 시대의 흐름에 맞춰 **SK 부트캠프에서 AI 심화 학습**을 진�
 
 ---
 
-## 🎓 Education & Life
+## Education & Life
 
 | 교육                                                         |   시기    |
 | ------------------------------------------------------------ | --------- |
@@ -70,12 +70,12 @@ AI 시대의 흐름에 맞춰 **SK 부트캠프에서 AI 심화 학습**을 진�
 | **삼성청년SW·AI아카데미 14기** 수료 — 전공 자바반 (1년)      | 2026.06   |
 | **경영학과** 우등 졸업 (4.41/4.5)                            | 2022.02   |
 
-## 📜 Certifications
+## Certifications
 
 정보처리기사 `2024.09` <br/> SQL개발자(SQLD) `2024.09` <br/> TOEIC Speaking IM1 `2026.03` <br/> 5종 이상의 자격증 보유 (워드프로세서, MOS Master 등)
 
 ---
-## 🏅 Problem Solving
+## Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrrlxor627)](https://solved.ac/qkrrlxor627)
 
