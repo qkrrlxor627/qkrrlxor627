@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=140&text=Park%20Kitaek&fontColor=ffffff&fontSize=42&desc=BackEnd%20Developer%20%C2%B7%20AI%20Engineer&descSize=16&descAlignY=75" width="100%" />
 
-## **[백엔드 특화형 AI 엔지니어]** 박기택입니다.
+## **[Backend-Specialized AI Engineer]** Park Kitaek
 
-로봇견과의 연동을 통해 **풀스택 모니터링 앱**을 만든 경험이 있고,<br/>
-회계·세무 도메인 기반의 **핀테크 앱**을 만든 경험도 있습니다.
+I've built a **full-stack monitoring app** integrated with a robot guide dog,<br/>
+and a **fintech app** grounded in the accounting & tax domain.
 
-삼성 부트캠프(SSAFY)에서 **백엔드 및 AI 기본기, 프로젝트 방법론**을 학습했고,<br/> 
-AI 시대의 흐름에 맞춰 **SK 부트캠프에서 AI 심화 학습**을 진행하고 있습니다.
+I learned **backend & AI fundamentals and project methodology** at Samsung's bootcamp (SSAFY),<br/>
+and I'm currently pursuing **advanced AI training at SK's bootcamp** to keep pace with the AI era.
 
-프로 의식을 갖고, 사용자의 요구사항을 **안성맞춤으로 완성하는 개발자**입니다.
+A developer with professionalism, dedicated to **delivering exactly what users need**.
 
 [![Velog](https://img.shields.io/badge/Velog-Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@qkrrlxor627/posts)
 [![Email](https://img.shields.io/badge/Email-qkrrlxor627%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:qkrrlxor627@naver.com)
@@ -52,27 +52,27 @@ AI 시대의 흐름에 맞춰 **SK 부트캠프에서 AI 심화 학습**을 진�
 
 ## Projects
 
-| 프로젝트                                                         | 소개                                                                           | 시기    |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------- |
-| **7iTAX 1차 유지보수**                                           | 세금 관리 특화 Pay 앱 유지보수 — 안정화 및 기능 개선                           | 2026.08 |
-| **EduK**                                                         | 교사를 위한 업무 보조 AI 에이전트                                | 2026.08 |
-| **7iTAX**                                                        | 1인 사업자 세금 관리 특화 Pay 앱  | 2026.03 |
-| **SSARA**                                                        | 시각장애인 안내 로봇견 AIoT 보호자용 관제 서비스         | 2026.01 |
-| **Gitaek Anolja**                                                | 친구와 실시간으로 함께 만드는 여행 계획 협업 플랫폼                            | 2025.12 |
+| Project | Description | Date |
+| ------- | ----------- | ---- |
+| **7iTAX Maintenance (Phase 1)** | Tax-management-focused Pay app maintenance — stabilization & feature improvements | 2026.08 |
+| **EduK** | AI agent assisting teachers with administrative work | 2026.08 |
+| **7iTAX** | Tax-management-focused Pay app for sole proprietors | 2026.03 |
+| **SSARA** | AIoT monitoring service for guardians of visually impaired users with robot guide dogs | 2026.01 |
+| **Gitaek Anolja** | Real-time collaborative travel planning platform for friends | 2025.12 |
 
 ---
 
 ## Education & Life
 
-| 교육                                                         |   시기    |
-| ------------------------------------------------------------ | --------- |
-| **SK AI Leader Academy 4기** 재학 — AI Engineer 과정 (5개월) | 2026.07 ~ |
-| **삼성청년SW·AI아카데미 14기** 수료 — 전공 자바반 (1년)      | 2026.06   |
-| **경영학과** 우등 졸업 (4.41/4.5)                            | 2022.02   |
+| Education | Date |
+| --------- | ---- |
+| **SK AI Leader Academy, 4th Cohort** (in progress) — AI Engineer Track (5 months) | 2026.07 ~ |
+| **Samsung SW·AI Academy for Youth (SSAFY), 14th Cohort** — CS-Major Java Track (1 year) | 2026.06 |
+| **B.A. in Business Administration** — Graduated with Honors (GPA 4.41/4.5) | 2022.02 |
 
 ## Certifications
 
-정보처리기사 `2024.09` <br/> SQL개발자(SQLD) `2024.09` <br/> TOEIC Speaking IM1 `2026.03` <br/> 5종 이상의 자격증 보유 (워드프로세서, MOS Master 등)
+Engineer Information Processing (정보처리기사) `2024.09` <br/> SQL Developer (SQLD) `2024.09` <br/> TOEIC Speaking IM1 `2026.03` <br/> 5+ additional certifications (Word Processor, MOS Master, etc.)
 
 ---
 ## Problem Solving
