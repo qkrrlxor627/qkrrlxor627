@@ -75,6 +75,7 @@ AI 시대의 흐름에 맞춰 **SK 부트캠프에서 AI 심화 학습**을 진�
 정보처리기사 `2024.09` <br/> SQL개발자(SQLD) `2024.09` <br/> TOEIC Speaking IM1 `2026.03` <br/> 5종 이상의 자격증 보유 (워드프로세서, MOS Master 등)
 
 ---
+## 🏅 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrrlxor627)](https://solved.ac/qkrrlxor627)
 
