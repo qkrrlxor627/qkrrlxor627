@@ -76,4 +76,6 @@ AI 시대의 흐름에 맞춰 **SK 부트캠프에서 AI 심화 학습**을 진�
 
 ---
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrrlxor627)](https://solved.ac/qkrrlxor627)
+
 </div>
