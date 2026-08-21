@@ -75,8 +75,5 @@ A developer with professionalism, dedicated to **delivering exactly what users n
 Engineer Information Processing (정보처리기사) `2024.09` <br/> SQL Developer (SQLD) `2024.09` <br/> Advanced Data Analytics Semi-Professional(ADSP) `2026.08` <br/> TOEIC Speaking IM1 `2026.03` <br/> 5+ additional certifications (Word Processor, MOS Master, etc.)
 
 ---
-## Problem Solving
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=qkrrlxor627&v=2)](https://solved.ac/qkrrlxor627)
 
 </div>
