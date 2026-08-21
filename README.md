@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=140&text=Park%20Kitaek&fontColor=ffffff&fontSize=42&desc=BackEnd%20Specialized%20%C2%B7%20AI%20Engineer&descSize=16&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=140&text=Park%20Kitaek&fontColor=ffffff&fontSize=42&desc=BackEnd%20Specialized%20%20AI%20Engineer&descSize=16&descAlignY=75" width="100%" />
 
 ## **[Backend-Specialized AI Engineer]** Tech
 
