@@ -54,7 +54,7 @@ A developer with professionalism, dedicated to **delivering exactly what users n
 
 | Project | Description | Date |
 | ------- | ----------- | ---- |
-| **AI agent for AX** | Reafy to make it| 2026.09 |
+| **AI agent for AX** | Ready to make it| 2026.09 |
 | **7iTAX Maintenance** | Tax-management-focused Pay app maintenance — stabilization & feature improvements | 2026.09 |
 | **7iTAX** | Tax-management-focused Pay app for sole proprietors | 2026.03 |
 | **SSARA** | AIoT monitoring service for guardians of visually impaired users with robot guide dogs | 2026.01 |
