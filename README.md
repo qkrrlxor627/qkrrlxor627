@@ -71,6 +71,8 @@ A developer with professionalism, dedicated to **delivering exactly what users n
 | --------- | ---- |
 | **SK AI Leader Academy, 4th Cohort** (in progress) — AI Engineer Track (5 months) | 2026.07 ~ |
 | **Samsung SW·AI Academy for Youth (SSAFY), 14th Cohort** — CS-Major Java Track (1 year) | 2026.06 |
+| **다이소 물류 일** | 2024.11 |
+| **ROKAF** | 2024.02 |
 | **B.A. in Business Administration** — Graduated with Honors (GPA 4.41/4.5) | 2022.02 |
 
 ## Certifications
