@@ -49,7 +49,7 @@ A developer with professionalism, dedicated to **delivering exactly what users n
 
 ---
 
-## Projects
+## Projects(어떤 프로젝트인지 강점 위주 깃허브에 저장소에 다 저장 + 논코드는 명시)
 
 | Project | Description | Date |
 | ------- | ----------- | ---- |
