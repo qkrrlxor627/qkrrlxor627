@@ -65,7 +65,7 @@ A developer with professionalism, dedicated to **delivering exactly what users n
 
 ---
 
-## Education & Life
+## Education & Life (배운 내용 간략히 상세히 추가 필요)
 
 | Education | Date |
 | --------- | ---- |
