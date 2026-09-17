@@ -53,7 +53,7 @@ A developer with professionalism, dedicated to **delivering exactly what users n
 
 | Project | Description | Date |
 | ------- | ----------- | ---- |
-| **il-il-Log** | for non-ai process, essential process| 2026.09 |
+| **iLog** | for non-ai process, essential process| 2026.09 |
 | **workflowK** | for workflow automatically| 2026.09 |
 | **BizXray** | for 사업계획서 평가 | 2026.09 |
 | **7iTAX Maintenance** | Tax-management-focused Pay app maintenance — stabilization & feature improvements | 2026.09 |
