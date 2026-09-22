@@ -53,6 +53,7 @@ A developer with professionalism, dedicated to **delivering exactly what users n
 
 | Project | Description | Date |
 | ------- | ----------- | ---- |
+| **lunchTimePJT** | for study langchain with Runable | 2026.09 |
 | **iLog** | for non-ai process, essential process| 2026.09 |
 | **workflowK** | for workflow automatically| 2026.09 |
 | **BizXray** | for 사업계획서 평가 | 2026.09 |
