@@ -10,7 +10,14 @@ and a **fintech app** grounded in the accounting & tax domain.
 I learned **backend & AI fundamentals and project methodology** at Samsung's bootcamp (SSAFY),<br/>
 and I'm currently pursuing **advanced AI training at SK's bootcamp** to keep pace with the AI era.
 
-A developer with professionalism, dedicated to **delivering exactly what users need**.
+### Hard knowledge should be easy to use.
+
+Dig deep into AI and work, and the work becomes simple.<br/>
+That is not a crisis for humans.<br/>
+Simpler work frees us to face bigger problems.<br/>
+But the field is never as simple as it looks.<br/>
+In the end, each field is a universe of its own.<br/>
+I want to take on those universes.
 
 [![Velog](https://img.shields.io/badge/Velog-Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@qkrrlxor627/posts)
 [![Email](https://img.shields.io/badge/Email-qkrrlxor627%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:qkrrlxor627@naver.com)
