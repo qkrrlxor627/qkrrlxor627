@@ -10,11 +10,13 @@ and a **fintech app** grounded in the accounting & tax domain.
 I learned **backend & AI fundamentals and project methodology** at Samsung's bootcamp (SSAFY),<br/>
 and I'm currently pursuing **advanced AI training at SK's bootcamp** to keep pace with the AI era.
 
-**Hard knowledge should be easy to use.**
-AI makes work simpler, and that frees people to face bigger problems.
+**Hard knowledge should be easy to use.**<br/>
+AI makes work simpler, and that frees people to face bigger problems.<br/>
 But the field is never as simple as it looks. Each one is a universe of its own, and I want to take on those universes.
-<br>
-[![Velog](https://img.shields.io/badge/Velog-Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@qkrrlxor627/posts)
+
+<br/>
+
+[![Velog](https://img.shields.io/badge/Velog-Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@qkrrlxor627/posts)&nbsp;
 [![Email](https://img.shields.io/badge/Email-qkrrlxor627%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:qkrrlxor627@naver.com)
 
 </div>
